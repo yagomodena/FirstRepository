@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace FirstProjectGit {
     internal class Program {
         static void Main(string[] args) {
+            Console.WriteLine("Olá Mundo!");
+            Console.WriteLine("Boa noite!");
         }
     }
 }
